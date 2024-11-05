@@ -2,8 +2,8 @@ version: '3.8'
 services:
   web:
     build: .
-    image: nqquy21/register-app-frontned
+    image: nqquy21/register-app-frontend
     ports:
-      - "3030:3030"
+      - "80:3030"
     environment:
       - REACT_APP_API_BASE_URL=http://13.211.132.174:8080
