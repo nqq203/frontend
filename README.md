@@ -23,7 +23,7 @@ npm start
 ```
 
 ## Public hosting: 
-[http://13.238.117.160/](http://13.238.117.160/)
+[http://13.211.222.196/](http://13.211.222.196/)
 
 ## Self-Evaluation: 
 | Category              | Criteria             | Points |
